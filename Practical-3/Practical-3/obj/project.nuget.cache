@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qevKWzanqXb8fpLQ8GZEG/YDGuHuiUa+GJF7DAJtMqQBvYF4U4K0tGFrOWpABiICLKypn6ZiqVkKQEYL7hSViQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jayesh\\source\\repos\\Practical-3\\Practical-3\\Practical-3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jayesh\\.nuget\\packages\\dotliquid\\2.2.690\\dotliquid.2.2.690.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,46 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Practical-3/1.0.0": {
+        "dependencies": {
+          "DotLiquid": "2.2.690"
+        },
+        "runtime": {
+          "Practical-3.dll": {}
+        }
+      },
+      "DotLiquid/2.2.690": {
+        "runtime": {
+          "lib/netstandard2.0/DotLiquid.dll": {
+            "assemblyVersion": "2.2.690.0",
+            "fileVersion": "2.2.690.0"
+          }
+        },
+        "resources": {
+          "lib/netstandard2.0/it/DotLiquid.resources.dll": {
+            "locale": "it"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practical-3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DotLiquid/2.2.690": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dR7lfT6M19jG+HoqtLw0+revPbR43MDA/CP1a2e0HWA7NGVFt9TgWWyrlW3zVfg4OcJiJJFrOwDY52bZMo+Xgw==",
+      "path": "dotliquid/2.2.690",
+      "hashPath": "dotliquid.2.2.690.nupkg.sha512"
+    }
+  }
+}
